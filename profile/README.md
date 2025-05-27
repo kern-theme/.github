@@ -1,1 +1,1 @@
-# Kern the color scheme of the future.
+# Kern the color scheme from Tommorow.
